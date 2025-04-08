@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/quotes",
+      "dest": "/api/quotes.js",
+      "methods": ["GET"]
+    }
+  ]
+}
